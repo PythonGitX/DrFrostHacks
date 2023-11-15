@@ -16,4 +16,4 @@ async function injectCode() {
 }
 
 
-injectCode().then(r => console.log("Dr Cheat loaded!"));
+injectCode().then(r => console.log("DrFrostHacks loaded!"));
