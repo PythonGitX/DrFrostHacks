@@ -1,6 +1,6 @@
 # About DrFrostHacks
 
-Dr Cheat is a Chrome Extension that provides an answer to any questions on DrFrostMaths.com. Since it is not released on the official Chrome Extension website, you will have to download the code from here manually. This is a forked version of the Chrome Extension. I forked this and edited some code for my learning group.
+DrFrostHacks is a Chrome Extension that provides an answer to any questions on DrFrostMaths.com. Since it is not released on the official Chrome Extension website, you will have to download the code from here manually. This is a forked version of the Chrome Extension. I forked this and edited some code for my learning group.
 
 ## DrFrostHacks Setup/Installation
 ⚠️ NOTE THAT THIS HAS BEEN TESTED ON CHROME AND CHROMIUM, AND OPERA, FIREFOX, BRAVE AND MANY OTHER WEB BROWSERS MAY NOT SUPPORT THIS! EDGE MAY OR MAY NOT WORK AS IT HASN'T BEEN TESTED YET! ⚠️
